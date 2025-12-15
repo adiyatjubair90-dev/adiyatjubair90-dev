@@ -1,6 +1,8 @@
 ## Hi there 👋
 I'm Adiyat, a 2nd year Software Engineering student.
+
 I am always on an adventure to learn new technical skills to add to my skillset!
+
 If there's a project that pops up in my head, I'll make it. I enjoy designing and programming.
  
 <!--
