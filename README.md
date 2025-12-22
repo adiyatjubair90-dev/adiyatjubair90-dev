@@ -5,9 +5,7 @@ I am always on an adventure to learn new technical skills to add to my skillset!
 
 If there's a project that pops up in my head, I'll make it. I enjoy designing and programming.
 
-## There are two projects I am currently working on 🗂️:
-
-A portfolio website to display my projects, skills and experiences to other people.
+## The project I am currently working on 🗂️:
 
 A data analytics and neural networking project (General for now, still TBD).
 
